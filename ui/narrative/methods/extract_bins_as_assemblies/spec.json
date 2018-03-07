@@ -25,7 +25,7 @@
       "id" : "extracted_assemblies",
       "optional" : false,
       "advanced" : false,
-      "allow_multiple" : true,
+      "allow_multiple" : false,
       "default_values" : [ "" ],
       "field_type" : "textsubdata",
       "textsubdata_options" : {
