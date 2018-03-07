@@ -2,7 +2,7 @@
 # define display information
 #
 name: Extract Bins as Assemblies from BinnedContigs - UI EXPERIMENTATION
-tooltip: Extract a bin as an Assembly from a BinnedContig dataset
+tooltip: testing test testing
 screenshots: []
 
 icon: binutil-green.png
