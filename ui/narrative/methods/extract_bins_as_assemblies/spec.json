@@ -54,8 +54,7 @@
     {
       "id": "extracted_assemblies",
       "parameters": [
-        "bin_id",
-        "assembly_suffix"
+        "bin_id"
       ],
       "optional": true,
       "allow_multiple": true,
