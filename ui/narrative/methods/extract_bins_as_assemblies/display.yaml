@@ -36,11 +36,6 @@ parameters :
         ui-name : Assembly Name Suffix
         short-hint : provide a suffix append to Bin name for new Assembly name
 
-
-parameter-groups :
-    extracted_assemblies :
-        ui-name : Assemblies to Extract
-        short-hint : Specify the bins and assembly names to extract
             
 
 description : |
