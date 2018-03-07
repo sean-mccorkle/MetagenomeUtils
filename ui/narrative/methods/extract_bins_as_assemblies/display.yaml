@@ -29,8 +29,8 @@ parameters :
     binned_contig_obj_ref :
         ui-name : Binned Contigs
         short-hint : the binned contig data to edit
-    bin_id:
-        ui-name : Bin Name
+    extracted_assemblies:
+        ui-name : Bin Names
         short-hint : Enter the name of the bin to extract
     assembly_suffix:
         ui-name : Assembly Name Suffix
