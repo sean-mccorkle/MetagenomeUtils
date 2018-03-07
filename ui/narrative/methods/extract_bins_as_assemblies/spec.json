@@ -22,10 +22,10 @@
       }
     },
     {
-      "id" : "bin_id",
+      "id" : "extracted_assemblies",
       "optional" : false,
       "advanced" : false,
-      "allow_multiple" : false,
+      "allow_multiple" : true,
       "default_values" : [ "" ],
       "field_type" : "textsubdata",
       "textsubdata_options" : {
@@ -50,6 +50,7 @@
       "text_options": {}
     }
   ],
+
   "behavior": {
     "service-mapping": {
       "url": "",
