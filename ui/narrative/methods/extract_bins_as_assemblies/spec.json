@@ -35,7 +35,7 @@
           "path_to_subdata": ["bins"],
           "selection_id": "bid"
         },
-        "multiselection":false,
+        "multiselection":true,
         "show_src_obj":false,
         "allow_custom":false
       }
