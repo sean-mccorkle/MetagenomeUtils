@@ -50,17 +50,6 @@
       "text_options": {}
     }
   ],
-  "parameter-groups": [
-    {
-      "id": "extracted_assemblies",
-      "parameters": [
-        "bin_id"
-      ],
-      "optional": true,
-      "allow_multiple": true,
-      "with_border": false
-    }
-  ],
   "behavior": {
     "service-mapping": {
       "url": "",
