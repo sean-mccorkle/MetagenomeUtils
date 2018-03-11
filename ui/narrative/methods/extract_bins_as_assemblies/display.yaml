@@ -32,6 +32,7 @@ parameters :
     extracted_assemblies:
         ui-name : Bin Names
         short-hint : Enter the name of the bin to extract
+        description:  Select the bins you want extracted as assemblies, one bin per assembly.
     assembly_suffix:
         ui-name : Assembly Name Suffix
         short-hint : provide a suffix append to Bin name for new Assembly name
