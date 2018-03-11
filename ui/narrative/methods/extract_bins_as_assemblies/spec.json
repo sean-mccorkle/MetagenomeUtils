@@ -34,6 +34,7 @@
           "subdata_included" : ["bins/[*]/bid", "bins/[*]/n_contigs", "bins/[*]/sum_contig_len"],
           "path_to_subdata": ["bins"],
           "selection_id": "bid",
+          "selection_description": ["n_contigs", "sum_contig_len"],
           "description_template": "num. contigs: {{n_contigs}  summed contig length: {{sum_contig_len}}"
         },
         "multiselection":true,
