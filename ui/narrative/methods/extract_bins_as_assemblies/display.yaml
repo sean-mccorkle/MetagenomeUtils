@@ -38,7 +38,7 @@ parameters :
     assembly_set_name:
         ui-name : Assembly Set Name
         short-hint : multiple assemblies will be collected in a set with this name (required if more than one assembly is selected)
-
+        placeholder: Vot is dis!
             
 
 description : |
