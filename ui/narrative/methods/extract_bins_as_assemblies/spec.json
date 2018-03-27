@@ -22,6 +22,17 @@
       }
     },
     {
+        "id": "add_all_bins",
+        "optional": false,
+        "advanced": false,
+        "allow_multiple": false,
+        "default_values":[1],
+        "field_type" : "checkbox",
+        "checkbox_options":{
+            "checked_value": 1,
+            "unchecked_value": 0
+    },
+    {
       "id" : "extracted_assemblies",
       "optional" : false,
       "advanced" : false,
