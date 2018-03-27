@@ -29,6 +29,9 @@ parameters :
     binned_contig_obj_ref :
         ui-name : Binned Contigs
         short-hint : the binned contig data to edit
+    add_all_bins :
+        ui-name : Add all bins
+        short-hint : extract all bins in the binned contig object
     extracted_assemblies:
         ui-name : Bin Names For Extraction
         short-hint : Select the bins you want extracted as assemblies, one bin per assembly.
