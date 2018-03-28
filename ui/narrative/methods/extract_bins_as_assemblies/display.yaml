@@ -27,7 +27,7 @@ suggestions:
 #
 parameters :
     binned_contig_obj_ref :
-        ui-name : <b>Binned</b> <font color="red">Contigs</font>
+        ui-name : <b style="color:red">Binned</b> Contigs
         short-hint : the <b>binned contig</b> data to edit
     add_all_bins :
         ui-name : Add all bins
