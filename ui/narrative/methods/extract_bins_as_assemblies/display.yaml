@@ -28,7 +28,7 @@ suggestions:
 parameters :
     binned_contig_obj_ref :
         ui-name : Binned Contigs
-        short-hint : the binned contig data to edit
+        short-hint : the <b>binned contig</b> data to edit
     add_all_bins :
         ui-name : Add all bins
         short-hint : extract all bins in the binned contig object
